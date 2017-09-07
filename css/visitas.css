@@ -1,0 +1,25 @@
+.tablero_mensajes{
+	border: 1px solid #CECECE;
+	display: block;
+	height: 235px;
+	overflow-y: scroll;
+	text-align: left;
+	width: 286px;
+}
+
+form{
+	display: table;
+	width:300px;
+}
+
+form input#mensaje, form button{
+	width:96%;
+}
+
+.tablero_mensajes .fecha{
+	font-size:12px;
+}
+
+.tablero_mensajes .mensaje{
+	font-size:15px;
+}
