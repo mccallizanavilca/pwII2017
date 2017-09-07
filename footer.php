@@ -7,6 +7,6 @@
 </html>
  <div id="footer">
   <div class="container">
-	<p class="text-muted credit">UDC &copy <?php echo date('Y');?>. Desarrollo de Sfotware - Rawson</p>
+	<p class="text-muted credit">UDC &copy <?php echo date('Y');?>. Desarrollo de Software - Rawson --- Alumno Vilca, Moises</p>
   </div>
 </div>
